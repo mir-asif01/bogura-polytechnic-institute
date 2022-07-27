@@ -1,0 +1,56 @@
+.c-img{
+	width: 60px;
+	height: 60px;
+	border-radius: 50%;
+}
+.position{
+	position: absolute;
+	top: 20px;
+	left: 200px;
+}
+.nav-bg{
+	background-color: #B4FF9F;
+}
+footer h4{
+	cursor: pointer;
+}
+.bg-color{
+	background-color: #3CCF4E;
+	padding: 10px;
+	border-left: 5px solid red;
+}
+.border{
+	border: 1px solid gray;
+	padding: 10px;
+}
+.t-border{
+	border: 1px solid gray;
+	padding: 5px;
+}
+.t-t-border{
+	border: 1px solid gray;
+	padding: 15px;
+}
+
+.contact-icon{
+	background-color: #F37878;
+	border-radius: 8px;
+	cursor: pointer;
+}
+.footer-bg{
+	background-color: #76BA99;
+}
+.facebook-btn{
+	text-decoration: none;
+	color: black;
+	background-color: #2FA4FF;
+	border-bottom-left-radius: 10px;
+	border-top-right-radius: 10px;
+	padding: 7px 10px;
+	font-weight: bolder;
+	cursor: pointer;
+}
+.nav-item-link{
+	color: black;
+	font-weight: 600;
+}
